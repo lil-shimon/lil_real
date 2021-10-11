@@ -1,1 +1,3 @@
-
+<button phx-click="new-room" title="create a new room">
+  Create a new Room
+</button>
